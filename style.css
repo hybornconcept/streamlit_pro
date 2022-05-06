@@ -1,0 +1,37 @@
+.stNumberInput {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+body,
+#root {
+    /* Primary-color : '#E84C29'; */
+    background-color: '#0E1117';
+    font-family: '#FFFFFF';
+
+}
+
+.__bm__extension {
+    background-color: '#0E1117';
+    color: '#FFFFFF';
+
+}
+
+footer {
+    display: none;
+    color: transparent;
+    font-size: 0 !important;
+    visibility: hidden;
+
+}
+
+.css-2ykyy6,
+.egzxvld0,
+.css-z3au9t,
+.egzxvld1 {
+    display: none;
+    color: transparent;
+    font-size: 0 !important;
+
+}
